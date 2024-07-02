@@ -1,0 +1,20 @@
+Handling of collected data
+Data processing/ Train neural network model/ AI model
+
+Integration of AI technologies with HCI to produce human-centered
+AI (HCAI)
+
+Recent Trends:
+Deep fake speech generators are detectable?
+
+아직 한 프로젝트를 온전히 진행하기는 그렇니 
+진행중인 프로젝트를 참여할 마음이 있다
+
+킥보드를 모두 보여주는 앱
+
+https://www.washington.edu/news/2016/03/15/smartwatches-can-now-track-your-finger-in-mid-air-using-sonar/
+FingerIo technology
+Finger tracking on a table surface
+Signal analysis by training AI ML model based on sonar signals from wearables devices. 
+
+Might be used in wearable goggles as well?

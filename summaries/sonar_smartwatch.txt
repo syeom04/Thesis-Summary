@@ -6,3 +6,5 @@ https://doi.org/10.1145/3491102.3501935
 Trade-off between accuracy of identification of fingerprint and the need to wear additional equipment (like the magnetic ring). 
 
 Have applications such as using different fingers to type a message or have each finger represent a unique/distinct function. Useful as smartwatches have small screens which leads to the fat finger phenomena during the HCI process. 
+
+Used the Zadoff-Chu (ZC) sequence

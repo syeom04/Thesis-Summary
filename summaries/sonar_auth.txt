@@ -1,0 +1,6 @@
+A type of authentication system for wearable (watch) devices
+Used a multi model deep learning classifier for user authentication using a single thumb tap. 
+
+Basically capture data regarding the thumb using the speaker to send signal then receive signal using the microphone. 
+Signal analysis and use a neural network model to train the data set.
+Created a watchOS app without modifying the watch but using existing sensors from factory-made watch. 

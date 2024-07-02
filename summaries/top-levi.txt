@@ -1,0 +1,4 @@
+Displaying dynamic 3D content in the air using acoustic levitation
+
+Can be used to perform interactive activities with users from different angles relative to the device. 
+This time, it was a game activity where the members had to move a cube together. 
